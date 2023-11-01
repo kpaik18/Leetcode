@@ -3,7 +3,7 @@ package DP;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BurstBallons312 {
+public class BurstBallons312NotDone {
     public static void main(String[] args) {
         int[] nums = {1, 5};
         System.out.println(maxCoins(nums));
